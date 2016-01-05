@@ -1,0 +1,7 @@
+%{"bunt": {:hex, :bunt, "0.1.4"},
+  "credo": {:hex, :credo, "0.2.5"},
+  "ex_doc": {:git, "https://github.com/elixir-lang/ex_doc.git", "906caaab9caa615fad588dfb0d7fef220b2ac551", []},
+  "floki": {:hex, :floki, "0.7.1"},
+  "mochiweb": {:hex, :mochiweb, "2.12.2"},
+  "yamerl": {:git, "https://github.com/yakaz/yamerl.git", "ae810a808817d9482b4628ae3e20d746e3729fe0", []},
+  "yaml_elixir": {:hex, :yaml_elixir, "1.0.0"}}

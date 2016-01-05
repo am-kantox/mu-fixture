@@ -1,0 +1,2 @@
+defmodule MuFixture do
+end
